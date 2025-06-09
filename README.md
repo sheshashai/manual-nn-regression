@@ -46,7 +46,7 @@ Or open in **Google Colab** using this link: [https://colab.research.google.com/
 
 Here's the training loss over time:
 
-![loss curve](images/loss_plot.png)
+![loss curve](https://github.com/sheshashai/manual-nn-regression/blob/main/loss_plot.png)
 
 Final MSE: **3.25**  
 Sample predictions:  
